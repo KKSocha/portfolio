@@ -63,3 +63,8 @@ nav a:hover {
 #contact a:hover {
     text-decoration: underline;
 }
+
+footer
+{
+    margin-top: 5vh;
+}

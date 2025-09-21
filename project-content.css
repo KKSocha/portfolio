@@ -1,0 +1,32 @@
+.project-readme {
+    color: #eee;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: 'Sue Mono', monospace;
+}
+
+.project-readme h1, 
+.project-readme h2 {
+    color: #cfb105;
+}
+
+.project-readme code {
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.project-readme img {
+    max-width: 50%;
+    display: block;
+    margin: 10px 0;
+}
+
+.github-link {
+    color: #cfb105;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.github-link:hover {
+    text-decoration: underline;
+}
